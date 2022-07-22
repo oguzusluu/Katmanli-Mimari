@@ -1,0 +1,17 @@
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\Businies.deps.json
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\Businies.dll
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\Businies.pdb
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\Entity.dll
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\bin\Debug\net6.0\Entity.pdb
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.csproj.AssemblyReference.cache
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.AssemblyInfoInputs.cache
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.AssemblyInfo.cs
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.csproj.CoreCompileInputs.cache
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.csproj.CopyComplete
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.dll
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\refint\Businies.dll
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\Businies.pdb
+C:\Users\Evoon\source\repos\ConsoleProje\Businies\obj\Debug\net6.0\ref\Businies.dll
